@@ -1,7 +1,7 @@
 # SQL-Beginner
 
 This repository contains my beginner-friendly SQL journey, starting with analyzing the Bike Sales Dataset from Kaggle and ending with solving the popular SQL Murder Mystery.
-Through this project, I learned how to write meaningful SQL queries, understand table relationships, and perform data-driven analysis using ### MySQL.
+Through this project, I learned how to write meaningful SQL queries, understand table relationships, and perform data-driven analysis using MySQL.
 
 ## 🎯Why I Built This Project
 

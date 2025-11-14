@@ -5,7 +5,7 @@ Through this project, I learned how to write meaningful SQL queries, understand 
 
 ## 🎯Why I Built This Project
 
-I wanted to learn SQL properly — not just syntax, but how data connects and how real analysis is done.
+I wanted to learn SQL properly, not just syntax, but how data connects and how real analysis is done.
 
 To practice:
 1. I worked on the Bike Sales Dataset (Kaggle)
@@ -13,5 +13,5 @@ To practice:
 3. I learned to use essential SQL concepts:
   #### WHERE
   #### GROUP BY
-  #### JOIN (Inner, Left, etc.)
-I applied these skills to solve the full SQL Murder Mystery.
+  #### JOINTS
+4. I applied these skills to solve the full SQL Murder Mystery.

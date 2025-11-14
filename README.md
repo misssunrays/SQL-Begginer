@@ -11,7 +11,7 @@ To practice:
 1. I worked on the Bike Sales Dataset (Kaggle)
 2. ChatGPT generated practice questions for me
 3. I learned to use essential SQL concepts:
-  #### WHERE
-  #### GROUP BY
-  #### JOINTS
+ > WHERE
+ > GROUP BY
+ > JOINTS
 4. I applied these skills to solve the full SQL Murder Mystery.

@@ -15,3 +15,8 @@ To practice:
  ###### GROUP BY
  ###### JOINTS
 4. I applied these skills to solve the full SQL Murder Mystery.
+   
+ ### I have provided the dataset in zip format in the repository.
+ 
+ Arustha Thapa
+ arushtha1@gmail.com

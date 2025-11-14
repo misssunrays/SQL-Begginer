@@ -1,4 +1,4 @@
-CREATE DATABASE BIKE_SALES;
+
 use bike_sales;
 SELECT * 
 FROM BRANDS;
@@ -89,13 +89,6 @@ select *
 from orders
 where shipped_date is null;
 
--- List all products with a list_price higher than the average list price of all products.
-select product_name
-from products
-where list_price>
-(select avg(list_price) -- use of sub query
-from products);
-
 -- Show all products ordered by category_id first (ascending) and list_price (descending).
 select *
 from products
@@ -115,12 +108,6 @@ where left(city,1) = right(city,1);
 select *
 from orders
 where shipped_date is null;
-
--- Display all products that belong to a category with “Road” in its name.
-
-select *
-from products
-where product_name;
 
 -- Count the total number of customers.
 select count(*) -- select all rows
